@@ -1,6 +1,12 @@
 // Rewrite the instructions in your own words
 
 // Write the objectives and the tests
+//input --> text
+//split the phrase into words
+//take first letter of each word
+//capitalize each letter
+//put them all togerther
+//output --> print letter all together.
 
 // Write the pseudocode
 
